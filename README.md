@@ -5,4 +5,5 @@ Here is my example of implementation of creation REST API using the following in
 - Node.js/Express (a server part);
 - MongoDB (a data store).
 
-To start this project open the commad line and implement "npm start".
+To start this project open the commad line and implement the following command: 
+- npm start.
