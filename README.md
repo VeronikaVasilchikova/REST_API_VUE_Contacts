@@ -5,5 +5,6 @@ Here is my example of implementation of creation REST API using the following in
 - Node.js/Express (a server part);
 - MongoDB (a data store).
 
-To start this project open the commad line and implement the following command: 
-- npm start.
+To see this project follow follow the instructions:  
+- open your commad line and enter npm start;
+- open your browser and enter http://localhost:3000/
